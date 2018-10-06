@@ -1,0 +1,11 @@
+Backups
+Cache
+CachedData
+CachedExtensions
+GPUCache
+Local Storage/
+logs
+User/workspaceStorage/
+Cookies*
+machineid
+storage.json

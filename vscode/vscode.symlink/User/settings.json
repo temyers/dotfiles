@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "docker.attachShellCommand.linuxContainer": "/bin/bash",
+    "terminal.integrated.shell.linux": "bash",
+    "terminal.integrated.rendererType": "dom",
+    "explorer.confirmDelete": false,
+    "autoimport.autoComplete": false,
+    "typescript.autoImportSuggestions.enabled": true,
+    "window.zoomLevel": 0
+}
